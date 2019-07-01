@@ -22,4 +22,6 @@ public class HelpE2 {
   // doing f2 stuff
 
   // doing m1
+
+  // doing m2
 }
