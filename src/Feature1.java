@@ -5,4 +5,6 @@ public class Feature1 {
   }
 
   // adding ff1
+
+  // adding ff2
 }
