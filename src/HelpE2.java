@@ -20,4 +20,6 @@ public class HelpE2 {
   // doing f1 stuff
 
   // doing f2 stuff
+
+  // doing m1
 }
