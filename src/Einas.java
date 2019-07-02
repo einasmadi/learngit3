@@ -4,4 +4,6 @@ public class Einas {
   public String toString() {
     return "==> this is Einas's toString()";
   }
+
+  // added a new feature
 }
